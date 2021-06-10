@@ -16,4 +16,7 @@ APP后台服务技术：html+jquery+js+springboot+ssm+springsecurity
 
 # 项目技术答疑
   QQ2579692606
+  
+# 项目演示地址
+https://www.bilibili.com/video/BV1r64y1R7Nf?from=search&seid=7172849121824633691
 
